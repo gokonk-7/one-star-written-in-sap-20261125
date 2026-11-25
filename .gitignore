@@ -1,0 +1,5 @@
+# make.fun kit + competition data — never committed (breaks thinking_reproduces)
+kit/
+kit-extract/
+competition.json
+requirements.json
